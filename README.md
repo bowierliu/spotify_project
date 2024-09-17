@@ -11,7 +11,7 @@ The objective of this project is to investigate the relationships between variou
 - **Matplotlib**: For plotting charts and graphs.
 - **Scikit-learn**: For implementing clustering algorithms like K-means, PCA, and data preprocessing using StandardScaler.
   
-## Data
+## Dat
 
 The dataset consists of various musical features for each song, including:
 - Acousticness
